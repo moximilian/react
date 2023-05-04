@@ -1,6 +1,6 @@
 
 import "./style.css"
-import { useState } from 'node_modules/react'
+import { useState } from 'react'
 
 
 
